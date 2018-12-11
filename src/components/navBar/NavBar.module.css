@@ -1,9 +1,15 @@
 .NavBar {
     display: flex;
-    background-color: aquamarine;
+    position: fixed;
+    z-index: 1;
 }
 
 .NavItem {
     height: 20px;
-    padding: 5px;
+    padding: 10px;
+}
+
+.NavItem a {
+    text-decoration: none;
+    color: white;
 }
