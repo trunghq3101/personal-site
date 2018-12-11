@@ -1,0 +1,9 @@
+.NavBar {
+    display: flex;
+    background-color: aquamarine;
+}
+
+.NavItem {
+    height: 20px;
+    padding: 5px;
+}
