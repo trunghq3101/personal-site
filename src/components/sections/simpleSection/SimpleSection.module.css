@@ -1,0 +1,14 @@
+.SimpleSection {
+    padding: 5vh 3vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+}
+
+.Divider {
+    width: 40%;
+    height: 1px;
+    background-color: #d2d2d2;
+    margin: auto;
+}

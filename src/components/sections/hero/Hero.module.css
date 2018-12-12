@@ -1,5 +1,6 @@
 .Hero {
     background-color: #2098D1;
-    padding: 20px;
     color: white;
+    text-align: center;
+    padding: 10vh 3vh;
 }

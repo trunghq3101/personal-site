@@ -1,0 +1,12 @@
+.Main {
+    background-color: white;
+}
+
+.Standout {
+    color: #2098D1;
+    font-weight: 600; 
+}
+
+.Main ul {
+    margin-bottom: 0;
+}
